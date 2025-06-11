@@ -14,3 +14,5 @@ created_at: "2025-06-11"
 ![](/images/keyboard-layout.png)
 
 > The is gonna have a a `Rotary Encoder Switch E11`, and a `0.91inch OLED Display 128x32` and is gonna use `Rasberry pi Pico` for it micro controller.
+
+**Time Spent: 4hrs**
