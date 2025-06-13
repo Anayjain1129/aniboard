@@ -25,3 +25,13 @@ created_at: "2025-06-11"
 >did some basic wiring, after an hour of research wired everything to mcu.
 
 **Time Spent: 5hrs**
+
+## 13th June: Started with sch
+>Completed the SCH and then moved on to PCB, Seriously It was pain, first I had to figureout how i can make the sizes of stwitches big and did all of them manually.
+>Finnaly aligned all the switches and everything like the OLED and Encoder, the only things left are diodes
+
+![](/images/pcb13.06.png)
+
+>did some basic wiring, after an hour of research wired everything to mcu.
+
+**Time Spent: 5hrs**
