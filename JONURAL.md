@@ -35,3 +35,13 @@ created_at: "2025-06-11"
 >did some basic wiring, after an hour of research wired everything to mcu.
 
 **Time Spent: 5hrs**
+
+## 14th June: Started with PCB
+>aligned everything as I wantedor we can say according to my layout, it was kinda messy thig but finally after 4 hours did it.
+>Faced challenges withe pcb part, as i was using matrix, and its my first time working with it so yea it was kinda hard and faced issues like the component placement grid, finding where to put the diodes
+
+![](/images/pcb14.06.png)
+
+>at last Done my component placement 
+
+**Time Spent: 6hrs**
