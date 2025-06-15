@@ -37,7 +37,7 @@ created_at: "2025-06-11"
 **Time Spent: 5hrs**
 
 ## 14th June: Started with PCB
->aligned everything as I wantedor we can say according to my layout, it was kinda messy thig but finally after 4 hours did it.
+>aligned everything as I wanted or we can say according to my layout, it was kinda messy thig but finally after 4 hours did it.
 >Faced challenges withe pcb part, as i was using matrix, and its my first time working with it so yea it was kinda hard and faced issues like the component placement grid, finding where to put the diodes
 
 ![](/images/pcb14.06.png)
@@ -45,3 +45,9 @@ created_at: "2025-06-11"
 >at last Done my component placement 
 
 **Time Spent: 6hrs**
+
+## 15th June:Done by PCB 
+>Finally after 5hr I'm completely done with the PCB connected everything and named my board and also added orpheus at the bottom.
+
+![](/images/pcb15.06.png)
+![](/images/pcb3D15.06.png)
