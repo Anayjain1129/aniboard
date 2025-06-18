@@ -5,7 +5,7 @@ description: "It is fully custom keyboard"
 created_at: "2025-06-11"
 ---
 
-**Total time spent so far: 14hrs**
+**Total time spent so far: 28hrs**
 
 ## 11th June: Research
 > Watched a lot of youtube tuts and read so many documents to get a basic idea and all of what i wanted make and make my keyboard look like.
@@ -56,3 +56,13 @@ created_at: "2025-06-11"
 >First I tohught it is gonna be easy I thought I can like use the guide of hackpad to make it, it is alot different, So made the bottom part but gonna make it again cause I don't think it is upto the mark.
 
 ![](/images/cad16.06.png)
+
+**Time Spent: 2hrs**
+
+## 18th June: Working on Case
+>Working on CAD Gotta sleep now been working on it for like 6 hous the above case wasn't good enough so i'm working on new one the images are below.
+>Really had issues with OnShape but still made it out.
+
+![](/images/cad18.06.png)
+
+**Time Spent: 6hrs**
