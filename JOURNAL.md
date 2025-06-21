@@ -5,7 +5,7 @@ description: "It is fully custom keyboard"
 created_at: "2025-06-11"
 ---
 
-**Total time spent so far: 28hrs**
+**Total time spent so far: 32hrs**
 
 ## 11th June: Research
 > Watched a lot of youtube tuts and read so many documents to get a basic idea and all of what i wanted make and make my keyboard look like.
@@ -66,3 +66,13 @@ created_at: "2025-06-11"
 ![](/images/cad18.06.png)
 
 **Time Spent: 6hrs**
+
+## 21st June: Completed by the case or the 3D part
+>faced alot of issues, like with onshpae but finally I made through and I love the fact that I hate onshape but still I'm loving onshape
+>Made so much progress today, now I'm going to work on the firmware.
+>>and all of sudden I just love highwaying, A very very big thanks to highway team.
+
+![](/images/case21.06.png)
+![](/images/case21.06_1.png)
+
+**Time Spent: 4hrs**
