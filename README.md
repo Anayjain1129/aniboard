@@ -1,6 +1,6 @@
 # Anay's Keyboard - Aniboard
 
-![](images/case21.06_1)
+![](images/case21.06_1.png)
 
 Made by Anay
 
