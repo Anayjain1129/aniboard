@@ -52,6 +52,8 @@ created_at: "2025-06-11"
 ![](/images/pcb15.06.png)
 ![](/images/pcb3D15.06.png)
 
+**Time Spent: 4hrs**
+
 ## 16th June:Started With CAD(3D)
 >First I tohught it is gonna be easy I thought I can like use the guide of hackpad to make it, it is alot different, So made the bottom part but gonna make it again cause I don't think it is upto the mark.
 
