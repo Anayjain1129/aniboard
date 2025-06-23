@@ -25,8 +25,7 @@ Oh and it also looks very nice in my eyes. Took me more than **40 hours** making
 
 ## PCB
 
-The PCB's size is 360.4mm x 130.4mm
-
+The PCB's size is 367.100mm x 133.750mm
 | Schematic                     |
 | ----------------------------- |
 | ![](images/sch.png) |
