@@ -67,11 +67,11 @@ there are two two parts for the case one is the top and another is the top.
 
 # Bottom:
 
-![](images/Case/cae_bottom.png)
+![](images/3dcase_bottom.png)
 
 ## 3D Render:
 
-![](images/3dcase_front.png)
+![](images/new_3d_front.png)
 ![](images/3dcase_bottom.png)
 
 ## Layout:
