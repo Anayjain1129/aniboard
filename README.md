@@ -1,6 +1,6 @@
 # Anay's Keyboard - Aniboard
 
-![](images/new_3dcase_front.png)
+![](images/new_3d_front.png)
 
 Made by Anay
 
@@ -67,7 +67,7 @@ there are two two parts for the case one is the top and another is the top.
 
 # Bottom:
 
-![](images/Case/bottom.png)
+![](images/Case/cae_bottom.png)
 
 ## 3D Render:
 
