@@ -59,11 +59,11 @@ there are two two parts for the case one is the top and another is the top.
 
 # Top:
 
-![](images/case_top.png)
+![](images/plate.png)
 
 # Middle Plate:
 
-![](images/plate.png)
+![](images/middle_plate.png)
 
 # Bottom:
 
