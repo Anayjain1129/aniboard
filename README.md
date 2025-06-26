@@ -40,7 +40,7 @@ The PCB's size is 367.100mm x 133.750mm
 
 | 3D - Front                   |
 | ---------------------------- |
-| ![](images/new_3d_front.png) |
+| ![](images/pcb_front.png) |
 
 | 3D - Back                   |
 | --------------------------- |
