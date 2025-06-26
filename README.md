@@ -1,6 +1,6 @@
 # Anay's Keyboard - Aniboard
 
-![](images/3dcase_front.png)
+![](images/new_3dcase_front.png)
 
 Made by Anay
 
@@ -40,7 +40,7 @@ The PCB's size is 367.100mm x 133.750mm
 
 | 3D - Front                   |
 | ---------------------------- |
-| ![](images/3d_front.png) |
+| ![](images/new_3d_front.png) |
 
 | 3D - Back                   |
 | --------------------------- |
@@ -60,6 +60,10 @@ there are two two parts for the case one is the top and another is the top.
 # Top:
 
 ![](images/case_top.png)
+
+# Middle Plate:
+
+![](images/plate.png)
 
 # Bottom:
 
