@@ -5,7 +5,7 @@ description: "It is fully custom keyboard"
 created_at: "2025-06-11"
 ---
 
-**Total time spent so far: 38hrs**
+**Total time spent so far: 42hrs**
 
 ## 11th June: Research
 > Watched a lot of youtube tuts and read so many documents to get a basic idea and all of what i wanted make and make my keyboard look like.
@@ -83,3 +83,9 @@ created_at: "2025-06-11"
 I did some gpting since its very hard to make the firmware without having the parts with me 😭. and BOOM I had a firmware, I made a tiny functions like for Encoder and OLED display.
 
 **Time Spent: 2hrs**
+
+## 26nd June: Made the changes that were requested
+Made the changes in the Cad part and now my case looks so much good
+![](/images/new_3d_front.png)
+
+**Time Spent: 4hrs**
